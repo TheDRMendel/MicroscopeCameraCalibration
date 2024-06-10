@@ -1,7 +1,7 @@
 # Duplamikroszkóp Képeinek Egymásra Kalibrálása
 
 ## Leírás
-Ez a kód két kép kalibrálására szolgál, amelyeket egy duplamikroszkóppal vettek fel, hogy azokat egymáshoz igazítsa további elemzés vagy feldolgozás céljából. A program két képet olvas be, az egyik RGB formátumban, a másik pedig szürkeárnyalatosan. Manuálisan kiválasztott ellenőrzőpontok alapján kalibrálja azokat, majd egyesíti a képeket úgy, hogy az átalakított RGB képet ráhelyezi a szürkeárnyalatos képre.
+Ez egy duplamikroszkóp által készített képek egymásra illesztésére szolgál. A program beolvassa a két képet. Manuálisan kiválasztott ellenőrzőpontok alapján meghatározza a közük lévő transzformációs mátrixot, majd egyesíti a képeket úgy, hogy az átalakított RGB képet ráhelyezi a szürkeárnyalatos képre.
 
 ## Használat
 1. Mentse le a github repo-t!
