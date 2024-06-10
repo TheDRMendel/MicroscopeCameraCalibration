@@ -1,0 +1,7 @@
+Duplamikroszkóp képeinek egymásra kalibrálása
+
+- két kamera képe közti kalibrációs eljárások vizsgálata
+- tesztábrák készítése lézeres gravírozással
+- felvételek készítése kétkamerás mikroszkóppal
+- a két kép közti transzformáció megállapítása, választott kép átszámítása a másik koordináta rendszerébe
+- opcinálisan: megvalósítás élő kamera képre
